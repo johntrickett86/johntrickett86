@@ -6,4 +6,4 @@ I then went to work as Chief Information Officer for a large PE backed fire safe
 
 I love working with PHP and TALL Stack.
 
-I'm currently working on an OpenSource project, developing a Laravel SDK for Simpro API.
+I'm currently working on building internal tools at EA-RS Group to help automate processes and streamline business operations.
