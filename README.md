@@ -1,6 +1,8 @@
 ### 👋 Hi! I'm John!
 
-
+<div align="center">
+  <img src="./me.png" width="100%" alt="Hi there" />
+</div>
 
 I live in beautiful North Wales with my wife, two children and one knobhead dog. I've built a successful business from the ground up and am now diving into the tech world with a focus on digital strategies and bespoke software solutions.
 
